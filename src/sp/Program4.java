@@ -7,7 +7,7 @@ public class Program4
 	//  *
 	// **
 	//***  
-	  
+	  //this is updated code by vikas
 	  int space =2;
 	  int star=1;
 	  
